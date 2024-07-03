@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:test_1/pages/home.dart';
+import 'package:test_1/pages/login.dart';
 import 'package:test_1/pages/personlyinf.dart';
 import 'package:test_1/pages/technical.dart';
 
